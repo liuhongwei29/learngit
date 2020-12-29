@@ -17,5 +17,13 @@
 17. git push origin master;
 18. git clone git@github.com:liuhongwei29/gitskills.git;
 19. git branch, git switch, git merge, git branch -d;
-
+20. git log --graph;
+21. git merge --no-ff -m "merge with no-ff" dev
+22. git stash, git stash pop, git cherry-pick;
+23. git branch -D <name>;
+24. git remote -v, git push origin branch-name, git pull, git checkout -b branch-name origin/branch-name, git branch --set-upstream branch-name origin/branch-name
+25. git rebase;
+26. git tag, git tag -a v0.1 -m "v0.1 released";
+27. git push origin <tag>, git push origin --tags, git tag -d <tag>, git push origin :refs/tags/<tagname>;
+28. 
 
