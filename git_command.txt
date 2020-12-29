@@ -1,0 +1,9 @@
+1. git init;
+2. git add;
+3. git commit -m "test";
+4. git status;
+5. git diff readme.txt;
+6. git log --pretty=oneline;
+7. git reset --hard HEAD^;
+8. git reset --hard commit id;
+9. git reflog;
