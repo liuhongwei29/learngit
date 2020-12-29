@@ -7,4 +7,5 @@
 7. git reset --hard HEAD^;
 8. git reset --hard commit id;
 9. git reflog;
-10. 
+10. working space, stage, master, HEAD...
+
