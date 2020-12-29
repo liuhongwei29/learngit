@@ -8,4 +8,6 @@
 8. git reset --hard commit id;
 9. git reflog;
 10. working space, stage, master, HEAD...
+11. git checkout -- filename.txt
+12. git reset HEAD filename.
 
