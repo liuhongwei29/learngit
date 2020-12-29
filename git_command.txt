@@ -10,4 +10,7 @@
 10. working space, stage, master, HEAD...
 11. git checkout -- filename.txt
 12. git reset HEAD filename.
+13. git rm
+14. ssh-keygen -t rsa -C "youremail@example.com";
+15. git remote add origin git@github.com:michaelliao/learngit.git;
 
