@@ -25,5 +25,6 @@
 25. git rebase;
 26. git tag, git tag -a v0.1 -m "v0.1 released";
 27. git push origin <tag>, git push origin --tags, git tag -d <tag>, git push origin :refs/tags/<tagname>;
-28. 
+28. .gitignore;
+
 
